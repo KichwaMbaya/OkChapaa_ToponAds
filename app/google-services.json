@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "983245465316",
+    "project_id": "okoa-chapaa",
+    "storage_bucket": "okoa-chapaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983245465316:android:71a4466c0e9126655b2ef1",
+        "android_client_info": {
+          "package_name": "com.persnickyte.zeriphic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4yXCamKNbvHsubKtHyPNpKuYywAwdo-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
